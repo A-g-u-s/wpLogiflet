@@ -1,0 +1,60 @@
+.lf-section{
+    display: flex ;    
+    margin-top: 1em;
+    justify-content: space-evenly;
+}
+
+
+.img-left{
+    width: 500px;
+    height: auto;
+    margin-left: 0;
+    padding-right: 2em;
+    border-right: 1px solid #000;
+}
+
+.img-righ{
+    width: 500px;
+    height: auto;
+    margin-left: 1em    ;
+}
+
+.text{
+    margin-left: 1em;
+    min-width: 23em;
+    
+}
+
+.text-2{
+    padding-right: 3em;
+    border-right: 1px solid #000;
+}
+p{
+letter-spacing: 1px;
+}
+.brand-slogan{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 1em 0;
+    margin: 20px 0;
+    text-align: center;
+}
+
+h2{
+    line-height: 30px;
+}
+
+#h2-1{
+    padding: 3px;
+    background-color: #84b6f4;
+}
+
+#h2-2{
+    padding: 3px;
+    background-color: #fdfd96;
+}
+
+#h2-3{
+    padding: 3px;
+    background-color: #ff6961;
+}

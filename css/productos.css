@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap:wrap;    
+    justify-content: center;
+    margin-top: 12px;
+    padding: 16px;
+}
+
+.card{
+    width: 250px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 20px; 
+}
+
+.card img{
+    width: 100%;
+    height: auto;
+}
+
+.card-container .oferta{
+    display: inline-block;
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: start;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #ffff;
+    background-color: #4323d5;
+    padding: 3px;
+    border-radius: 10px;
+    padding: 5px 5px 5px 5px;
+}
+
+.card-container .precioactual{
+    color: #000;
+    font-size: 35px;
+    line-height: 1.2;
+    margin-left: 10px;
+
+}
+
+.card-container .precioanterior{
+    color: #666;
+    font-size: 20px;
+    line-height: 1.2;
+    margin-left: 12px;
+    text-decoration: line-through;
+
+}
+
+.card-container .descripcion{
+    color: #223;
+    font-size: 15px;
+    line-height: 1.2;
+    margin-left: 12px; padding-bottom: 10px;
+    
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    border-color:0px;
+    margin: 0 10px 10px 10px;
+    padding: 10px;
+    background-color: #c4c4c4;
+    color: #000 ;
+}
+button:hover{
+    background-color: #fdfd96;
+    color: #000 ;
+}
