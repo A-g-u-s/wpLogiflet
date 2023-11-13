@@ -63,7 +63,5 @@
             <span class="slogan">Elige Logiflet y disfruta de la excelencia en cada rincón de tu hogar.</span>
         </section>
     </main>
-
-    <?php include_once "sistema/includes/footer.php"; ?>
 </body>
 </html>
