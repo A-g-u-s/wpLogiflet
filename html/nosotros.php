@@ -22,7 +22,7 @@
          </nav>
      </header>
 
-        <h1>Somos Logiflet</h1>
+        <h1 class="titulo" style="background-color: #fdfd96">Somos Logiflet</h1>
         
         <p class="text">Logiflect es una empresa líder en el mundo de la tecnología para el hogar. Nos enorgullece ofrecer una amplia gama de electrodomésticos de última generación que hacen que la vida sea más cómoda, eficiente y emocionante. Desde neveras inteligentes que te permiten hacer la lista de compras desde tu teléfono hasta lavadoras que se adaptan a tu estilo de vida, en Logiflect nos esforzamos por brindar soluciones innovadoras para cada rincón de tu hogar. Nuestro compromiso con la calidad, la sostenibilidad y la satisfacción del cliente nos impulsa a buscar constantemente los electrodomésticos más avanzados y eficientes en energía. Descubre una nueva dimensión en el confort del hogar con Logiflect, donde la tecnología se fusiona perfectamente con tu vida cotidiana.</p>
         

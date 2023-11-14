@@ -4,14 +4,15 @@
     box-sizing: border-box;
 }
 
-h1{
+.titulo{    
     margin-top: 10px;
     text-align: center;
+    padding: 1em;
 }
 
 .text{
     margin-top: 10px;
-    letter-spacing: 1px;
+    letter-spacing: 10px;
 }
 .card-container{
     display: flex;

@@ -14,11 +14,11 @@
         <div class="logo">Logiflet</div>
          <nav> 
              <ul>
-                <li class="li"><a href="./index.html">INICIO</a></li>
+                <li class="li"><a href="index.php">INICIO</a></li>
                 <li class="li"><a href="./html/nosotros.php">NOSOTROS</a></li>
                 <li class="li"><a href="./html/productos.php">PRODUCTOS</a></li>
                 <li class="li"><a href="./html/contacto.php">CONTACTOS</a></li>
-                <li><a href="./login.php">INICIO DE SESION</a></li>
+                <li><a href="login.php">INICIO DE SESION</a></li>
              </ul>
          </nav>
      </header>
@@ -64,6 +64,5 @@
         </section>
     </main>
 
-    <?php include_once "sistema/includes/footer.php"; ?>
 </body>
 </html>
