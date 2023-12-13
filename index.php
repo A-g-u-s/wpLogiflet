@@ -63,6 +63,9 @@
             <span class="slogan">Elige Logiflet y disfruta de la excelencia en cada rincón de tu hogar.</span>
         </section>
     </main>
+<<<<<<< HEAD
 
+=======
+>>>>>>> a069f0e46fb2fe03b5fec983376a7e8377423562
 </body>
 </html>
